@@ -71,4 +71,4 @@ Add login & user history
 
 ## 📄 License
 
-MIT License © 2025 Balakumaran S
+MIT License © 2025 Harish
